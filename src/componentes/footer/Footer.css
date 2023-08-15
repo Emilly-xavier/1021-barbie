@@ -1,0 +1,36 @@
+.rodape{
+    background-color: rgb(247, 129, 194); 
+    margin-top: 535px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+ }
+
+footer div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+ }
+
+.d1{
+    display: flex;
+    flex-direction: column;
+ }
+
+ .d1 a{
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+ }
+ .d1 h1{
+    color: rgb(253, 0, 211);
+    font-size: 40px;
+ }
+
+ p{
+    color: black;
+    font-size: large;
+    margin-top: -40px;
+    font-weight: bold;
+ }
